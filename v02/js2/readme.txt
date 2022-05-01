@@ -1,0 +1,1 @@
+for disable js file add '// 0' to upper line in js file
